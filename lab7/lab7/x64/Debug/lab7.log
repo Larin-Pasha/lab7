@@ -1,0 +1,3 @@
+﻿  lab7.cpp
+D:\visual studio\prodject\lab7\lab7\lab7.cpp(34): warning C4715: cos: значение возвращается не при всех путях выполнения
+  lab7.vcxproj -> D:\visual studio\prodject\lab7\x64\Debug\lab7.exe
